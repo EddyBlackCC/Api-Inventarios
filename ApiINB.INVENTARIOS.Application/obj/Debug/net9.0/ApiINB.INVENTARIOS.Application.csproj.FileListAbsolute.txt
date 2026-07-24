@@ -1,0 +1,16 @@
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\bin\Debug\net9.0\ApiINB.INVENTARIOS.Application.deps.json
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\bin\Debug\net9.0\ApiINB.INVENTARIOS.Application.dll
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\bin\Debug\net9.0\ApiINB.INVENTARIOS.Application.pdb
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\bin\Debug\net9.0\ApiINB.INVENTARIOS.Domain.dll
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\bin\Debug\net9.0\ApiINB.INVENTARIOS.Domain.pdb
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\obj\Debug\net9.0\ApiINB.INVENTARIOS.Application.csproj.AssemblyReference.cache
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\obj\Debug\net9.0\ApiINB.INVENTARIOS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\obj\Debug\net9.0\ApiINB.INVENTARIOS.Application.AssemblyInfoInputs.cache
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\obj\Debug\net9.0\ApiINB.INVENTARIOS.Application.AssemblyInfo.cs
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\obj\Debug\net9.0\ApiINB.INVENTARIOS.Application.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\obj\Debug\net9.0\ApiINB.INVENTARIOS.Application.sourcelink.json
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\obj\Debug\net9.0\ApiINB.I.C89A4374.Up2Date
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\obj\Debug\net9.0\ApiINB.INVENTARIOS.Application.dll
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\obj\Debug\net9.0\refint\ApiINB.INVENTARIOS.Application.dll
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\obj\Debug\net9.0\ApiINB.INVENTARIOS.Application.pdb
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Application\obj\Debug\net9.0\ref\ApiINB.INVENTARIOS.Application.dll

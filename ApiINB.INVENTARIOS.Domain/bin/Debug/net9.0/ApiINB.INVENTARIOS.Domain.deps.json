@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ApiINB.INVENTARIOS.Domain/1.0.0": {
+        "runtime": {
+          "ApiINB.INVENTARIOS.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiINB.INVENTARIOS.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

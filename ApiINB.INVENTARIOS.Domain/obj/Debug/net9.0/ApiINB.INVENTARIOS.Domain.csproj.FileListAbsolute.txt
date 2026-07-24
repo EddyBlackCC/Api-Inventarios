@@ -1,0 +1,12 @@
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Domain\bin\Debug\net9.0\ApiINB.INVENTARIOS.Domain.deps.json
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Domain\bin\Debug\net9.0\ApiINB.INVENTARIOS.Domain.dll
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Domain\bin\Debug\net9.0\ApiINB.INVENTARIOS.Domain.pdb
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Domain\obj\Debug\net9.0\ApiINB.INVENTARIOS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Domain\obj\Debug\net9.0\ApiINB.INVENTARIOS.Domain.AssemblyInfoInputs.cache
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Domain\obj\Debug\net9.0\ApiINB.INVENTARIOS.Domain.AssemblyInfo.cs
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Domain\obj\Debug\net9.0\ApiINB.INVENTARIOS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Domain\obj\Debug\net9.0\ApiINB.INVENTARIOS.Domain.sourcelink.json
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Domain\obj\Debug\net9.0\ApiINB.INVENTARIOS.Domain.dll
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Domain\obj\Debug\net9.0\refint\ApiINB.INVENTARIOS.Domain.dll
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Domain\obj\Debug\net9.0\ApiINB.INVENTARIOS.Domain.pdb
+C:\Users\DANIEL\Documents\ApiINB.INVENTARIOS\ApiINB.INVENTARIOS.Domain\obj\Debug\net9.0\ref\ApiINB.INVENTARIOS.Domain.dll

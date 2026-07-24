@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4BvwC2ehSo0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EduardMS\\Downloads\\Api-Inventarios-main (1)\\Api-Inventarios-main\\ApiINB.INVENTARIOS.Application\\ApiINB.INVENTARIOS.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EduardMS\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.18\\microsoft.netcore.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\EduardMS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.18\\microsoft.windowsdesktop.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\EduardMS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.18\\microsoft.aspnetcore.app.ref.9.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
